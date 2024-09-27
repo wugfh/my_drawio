@@ -116,6 +116,9 @@
         <mxCell id="h4-geXGYuir-9ig28ti6-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.66;dx=52;notch=0;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
           <mxGeometry x="1560" y="564.25" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h4-geXGYuir-9ig28ti6-12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;测试设备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="910" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
