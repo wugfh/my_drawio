@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="vF1e-IQdxl3340B9SgoG">
-    <mxGraphModel dx="983" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,16 +37,16 @@
         <mxCell id="_K_mtuOuOyrIwBD14WvG-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;GPS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="500" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_K_mtuOuOyrIwBD14WvG-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;5G模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="_K_mtuOuOyrIwBD14WvG-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4/5G模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1000" y="670" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_K_mtuOuOyrIwBD14WvG-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;串口屏交互模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="850" y="250" width="230" height="90" as="geometry" />
+          <mxGeometry x="850" y="270" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_K_mtuOuOyrIwBD14WvG-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AT指令下发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="950" y="580" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_K_mtuOuOyrIwBD14WvG-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;工作流程控制&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;接收、解析、传输数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="_K_mtuOuOyrIwBD14WvG-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;工作流程控制&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;NEMA数据解析，&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;网络信号数据解析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;数据显示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="410" width="470" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_K_mtuOuOyrIwBD14WvG-32" target="kIPOF7yBYx_aCScnVeWq-21">
@@ -139,7 +139,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIPOF7yBYx_aCScnVeWq-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GPS数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;" vertex="1" parent="1">
+        <mxCell id="kIPOF7yBYx_aCScnVeWq-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;NEMA数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;" vertex="1" parent="1">
           <mxGeometry x="755" y="580" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.192;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kIPOF7yBYx_aCScnVeWq-21" target="_K_mtuOuOyrIwBD14WvG-31">
