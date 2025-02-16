@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="Page-1" id="vF1e-IQdxl3340B9SgoG">
-    <mxGraphModel dx="3188" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2983" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,9 +42,6 @@
         <mxCell id="_K_mtuOuOyrIwBD14WvG-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;GPS模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-17.5" y="555" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_K_mtuOuOyrIwBD14WvG-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4/5G模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="690" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K_mtuOuOyrIwBD14WvG-29" target="kIPOF7yBYx_aCScnVeWq-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -54,7 +51,7 @@
         <mxCell id="_K_mtuOuOyrIwBD14WvG-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AT指令下发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="920" y="601" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_K_mtuOuOyrIwBD14WvG-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;工作流程控制&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;NEMA数据解析，&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;网络信号数据解析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;数据传输&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="_K_mtuOuOyrIwBD14WvG-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;工作流程控制，读写SD卡&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;NEMA数据解析，&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;网络信号数据解析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;数据传输&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="440" width="570" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K_mtuOuOyrIwBD14WvG-32" target="kIPOF7yBYx_aCScnVeWq-21" edge="1">
@@ -88,13 +85,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SIM卡1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="920" y="835" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SIM卡2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="835" width="80" height="40" as="geometry" />
+          <mxGeometry x="1010" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SIM卡3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="835" width="80" height="40" as="geometry" />
+          <mxGeometry x="1100" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIPOF7yBYx_aCScnVeWq-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.529;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kIPOF7yBYx_aCScnVeWq-6" target="_K_mtuOuOyrIwBD14WvG-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -108,7 +105,7 @@
             <mxPoint x="1050" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIPOF7yBYx_aCScnVeWq-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kIPOF7yBYx_aCScnVeWq-9" edge="1">
+        <mxCell id="kIPOF7yBYx_aCScnVeWq-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_K_mtuOuOyrIwBD14WvG-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="750" as="sourcePoint" />
             <mxPoint x="1050" y="740" as="targetPoint" />
@@ -119,7 +116,7 @@
             <mxPoint x="1120" y="715" as="sourcePoint" />
             <mxPoint x="1120" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="975" y="715" />
+              <mxPoint x="975" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -277,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14ABOORO8LcHsrlJImk--3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;SD卡&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="690" width="90" height="90" as="geometry" />
+          <mxGeometry x="1200" y="810" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="14ABOORO8LcHsrlJImk--4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;存储数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1200" y="600" width="90" height="40" as="geometry" />
@@ -293,6 +290,15 @@
             <mxPoint x="1244.66" y="600" as="sourcePoint" />
             <mxPoint x="1244.66" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="14ABOORO8LcHsrlJImk--7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kIPOF7yBYx_aCScnVeWq-9" target="_K_mtuOuOyrIwBD14WvG-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="860" as="sourcePoint" />
+            <mxPoint x="1050" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_K_mtuOuOyrIwBD14WvG-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4/5G模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="725" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
